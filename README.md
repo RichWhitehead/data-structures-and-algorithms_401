@@ -46,3 +46,6 @@ The first step was to white board the specific task that was given from canvas. 
 
 ## Solution
 
+https://github.com/RichWhitehead/data-structures-and-algorithms_401/blob/master/assets/arr-binary-search.png
+
+
