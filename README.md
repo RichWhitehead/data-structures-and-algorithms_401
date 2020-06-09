@@ -31,3 +31,18 @@ The first step was to white board the specific task that were given from canvas.
 ## Solution
 
 https://github.com/RichWhitehead/data-structures-and-algorithms_401/blob/master/assets/array-shift.png
+
+# Array Binary Search
+
+This is the third 401 Python code challenge.
+
+## Challenge 
+
+Write a function called `BinarySearch` which takes in 2 parameters: a sorted array and the search key. Without utilizing any of the built-in methods available to your language, return the index of the array’s element that is equal to the search key, or -1 if the element does not exist.
+
+## Approach & Efficiency
+
+The first step was to white board the specific task that was given from canvas. Chuck and I partnered for the white boarding portion and we then wrote our own code. Both Chuck and I white boarded code challenge 03. 
+
+## Solution
+
