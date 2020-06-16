@@ -18,4 +18,6 @@ Write the following methods for the Linked List class:
 
 06/15/2020 2040 - Code challenge complete
 
+https://github.com/RichWhitehead/data-structures-and-algorithms_401/blob/master/data_structures/ll-insertions/CC06whiteboard.png
+
 
