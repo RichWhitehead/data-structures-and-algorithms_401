@@ -18,3 +18,4 @@ for the str() it is also big O(N) because I also used a while loop in my solutio
 .str - takes in no arguments and returns a string representing all the values in the Linked List
 # Credits and Sources
 https://stackoverflow.com/questions/280243/python-linked-list
+Shout out to Thomas Sherer who help me with this challenge.
