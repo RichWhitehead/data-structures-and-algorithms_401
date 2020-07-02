@@ -18,12 +18,13 @@ class Stack:
       self.top = Node(value)
     
   def pop(self):
-      if self.top:
-        wanted = self.top
-        self.top = self.top.next
-        wanted.next = None
-        return wanted.value
-      
+      if self.top is None:
+        raise AttributeError('The stack is empty')
+      wanted = self.top
+      self.top = self.top.next
+      wanted.next = None
+      return wanted.value
+    
   def is_empty(self):
       if self.top is None:
         return True
