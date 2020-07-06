@@ -42,6 +42,9 @@ def test_pop_error():
         assert stack.pop()
     assert str(err.value) == 'The stack is empty'
     
-
-    
+# def test_stack_is_empty():
+#     stack = test_stack()
+#     assert stack() == False
+#     test_stack = Stack()
+#     assert stack() == True
 
