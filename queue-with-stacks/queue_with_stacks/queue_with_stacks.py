@@ -1,6 +1,5 @@
-
-
 # Program to implement a stack 
+# copied stack over from the stack and queues lab
 
 class Node:
   """This is the Node for instances"""

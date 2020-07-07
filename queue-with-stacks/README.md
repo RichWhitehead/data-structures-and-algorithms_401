@@ -32,6 +32,10 @@ Define a ChessBoard class
 - should have render method that displays the chess board on screen with red and blue shown in correct locations
 - should have is_under_attack method that return boolean if red is under attack by a blue piece horizontally, vertically or diagonally
 
+# Solution
+
+Users/richardwhitehead/codefellows/401/data-structures-and-algorithms_401/queue-with-stacks/Screen Shot 2020-07-06 at 9.37.15 PM.png
+
 # Sources
 
 https://www.geeksforgeeks.org/queue-using-stacks/
