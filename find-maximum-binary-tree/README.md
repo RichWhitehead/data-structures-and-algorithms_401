@@ -12,4 +12,4 @@ Time Big O(n) Space Big O(W) where W - Width of the tree because we are using Qu
 
 ## Solution
 
-![Whiteboard Solution](https://github.com/RichWhitehead/data-structures-and-algorithms_401/tree/master/find-maximum-binary-tree/assets)
+![Whiteboard Solution](https://github.com/RichWhitehead/data-structures-and-algorithms_401/blob/master/find-maximum-binary-tree/assets/codechallenge17.png)
