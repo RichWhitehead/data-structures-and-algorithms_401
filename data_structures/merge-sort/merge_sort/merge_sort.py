@@ -20,28 +20,3 @@ def mergeSort(arr):
                 j+= 1
             k+= 1
           
-        # Checking if any element was left 
-        while i < len(L): 
-            arr[k] = L[i] 
-            i+= 1
-            k+= 1
-          
-        while j < len(R): 
-            arr[k] = R[j] 
-            j+= 1
-            k+= 1
-  
-# Code to print the list 
-def printList(arr): 
-    for i in range(len(arr)):         
-        print(arr[i], end =" ") 
-    print() 
-  
-# driver code to test the above code 
-if __name__ == '__main__': 
-    arr = [12, 11, 13, 5, 6, 7]  
-    print ("Given array is", end ="\n")  
-    printList(arr) 
-    mergeSort(arr) 
-    print("Sorted array is: ", end ="\n") 
-    printList(arr) 
