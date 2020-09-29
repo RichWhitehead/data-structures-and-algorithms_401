@@ -8,7 +8,7 @@
 
 Implement a breadth-first traversal on a graph.
 
-## Approach & Efficiency
+## Approach & Efficiency  
 
 Time Big O(n) Space Big O(n)
 
